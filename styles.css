@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Lexend+Deca&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Lexend+Deca&display=swap');
 
 *{
     box-sizing: border-box;
@@ -84,7 +83,5 @@ footer{
     }
     #cont_1{
         height: 364vh;
-    }
-   
-    
+    } 
 }
